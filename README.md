@@ -29,7 +29,7 @@
  <p align = 'center'> <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 
-<div align= "center"><img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=sankalp-srivastava&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats" align = "center"/>
+<div align= "center"><img src='https://github-readme-stats-mu-dusky.vercel.app/api?username=sankalp-srivastava&show_icons=true&theme=radical&count_private=true&include_all_commits=true"&custom_title="My Stats' align = "center"/>
 
 </div>
  
