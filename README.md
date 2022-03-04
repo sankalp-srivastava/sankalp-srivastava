@@ -12,7 +12,7 @@
 </p>
 
  
-**Machine Learning Engineer with excellent problem-solving skills and ability to perform well in a team. Proficient in C, PYTHON and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.**
+**Computer Science & Engineering student having a command over Machine Learning with excellent problem-solving skills and ability to perform well in a team. Proficient in C, PYTHON and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.**
   </div>
 <!-- body   -->
 
