@@ -68,6 +68,10 @@
     <a href="https://www.kaggle.com/sankalpsrivastava26" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
+ 
+   <a href="https://leetcode.com/raunaksrivastava22/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode Badge"/>
+  </a>
   <a href="https://www.linkedin.com/in/sankalpsrivastava-2605/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
