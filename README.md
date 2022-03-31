@@ -38,8 +38,7 @@
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center">
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">  <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">  <img src = "https://img.icons8.com/fluency/48/000000/anaconda--v2.png" width="40" height="40"> <img src = 
-"https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src = 
-"https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"> <img src = 
+"https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">  <img src = 
 "https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"> <img src = 
 "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40"> <img src = 
 "https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"> <img src = 
