@@ -2,7 +2,7 @@
 
 <h1>
   Hello there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style = "width: 1px; height:auto"/>
 </h1>
   <div align = 'center'>
  <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Sankalp%20Srivastava&height=150&fontSize=80&desc=Noida,%20IN&descAlignY=75&descAlign=82.4"/></div>
