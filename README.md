@@ -71,6 +71,9 @@
   <a href="https://www.linkedin.com/in/sankalpsrivastava-2605/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://sankalp-srivastava.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
+  </a>
 </div>
 
 
