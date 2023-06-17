@@ -2,9 +2,9 @@
 
 
   <div align = 'center'>
- <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Sankalp%20Srivastava&height=150&fontSize=80&desc=Noida,%20IN&descAlignY=75&descAlign=82.4"/></div>
+ <img src = "https://capsule-render.vercel.app/api?type=transparent&fontColor=ff0073&fontStyle=samakaran&text=Sankalp%20Srivastava&height=150&fontSize=80&desc=Gurugram,%20IN&descAlignY=75&descAlign=82.4"/></div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=Machine+Learning+Engineer;Software+Developer;Open+Source+Developer;&center=true&width=380&height=45"/><br>
+  <img src="https://readme-typing-svg.herokuapp.com?color=39ff14&center=true&lines=MERN+Stack+Developer;Software+Developer;Open+Source+Developer;&center=true&width=380&height=45"/><br>
  <img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/>
 </p>
 
@@ -17,7 +17,6 @@
  
 :star:  I’m currently working on **Time Series and Natural Language Processing(NLP)!** <br>
 :nerd_face: Currently learning **Full Stack Development** <br>
-:snowflake:  Currently studying **Computer Science and Engineering** from **JSS Academy of Technical Education, Noida** <br>
 🚀 Love to talking about **Automation and Innovation!** <br>
 💻 Participated in Open Source Programs like, **GSoC 2021** and **SWoC 2021**. <br>
 :trophy: Participated in many Machine Learning Competitions hosted on **Hackerearth** and **Kaggle**. <br>
